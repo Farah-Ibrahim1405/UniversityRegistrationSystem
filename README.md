@@ -28,8 +28,8 @@ A Java-based University Registration System that manages students, courses, and 
 
 # Tech Stack
 
-**Language:** Java
-**Core Concepts:**
+* **Language:** Java
+* **Core Concepts:**
 - Custom Linked Lists
 - Stack Operations
 - Sorting Algorithms
